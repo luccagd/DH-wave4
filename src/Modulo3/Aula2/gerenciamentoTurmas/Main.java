@@ -1,3 +1,5 @@
+package Modulo3.Aula2.gerenciamentoTurmas;
+
 import java.time.LocalDate;
 
 public class Main {
@@ -33,6 +35,6 @@ public class Main {
         turma9A.adicionarEstudante(everton);
 
         turma6A.imprimirEstudantes();
-        turma9A.imprimirEstudantes();
+        turma6A.imprimirDisciplinas();
     }
 }

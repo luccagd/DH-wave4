@@ -1,4 +1,4 @@
-package ordenacaoRadixSort;
+package Modulo3.Aula1.RadixSort;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -67,7 +67,3 @@ public class RadixSort {
         }
     }
 }
-
-
-
-

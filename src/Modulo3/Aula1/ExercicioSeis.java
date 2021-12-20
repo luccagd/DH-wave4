@@ -1,6 +1,6 @@
-package praticaIntegradoraDois;
+package Modulo3.Aula1;
 
-public class ExercicioUm {
+public class ExercicioSeis {
     public static void imprimeOrdenacaoCrescente(Integer[] vetor) {
         int ultimaPosicaoNaoOrdenada = vetor.length - 1;
         while (ultimaPosicaoNaoOrdenada > 0) {

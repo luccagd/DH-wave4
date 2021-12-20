@@ -1,3 +1,5 @@
+package Modulo3.Aula1;
+
 import java.util.Scanner;
 
 public class ExercicioCinco {

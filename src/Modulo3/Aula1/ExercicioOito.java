@@ -1,8 +1,6 @@
-package praticaIntegradoraDois;
+package Modulo3.Aula1;
 
-import java.util.Scanner;
-
-public class ExercicioTres {
+public class ExercicioOito {
     public static void main(String[] args) {
         Produto produto1 = new Produto("Arroz", 10.99, 2);
         Produto produto2 = new Produto("Feijão", 14.49, 1);

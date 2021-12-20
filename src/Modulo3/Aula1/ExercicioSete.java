@@ -1,6 +1,6 @@
-package praticaIntegradoraDois;
+package Modulo3.Aula1;
 
-public class ExercicioDois {
+public class ExercicioSete {
     public static void main(String[] args) {
         int valorEmpresaX = 1130000;
         double crescimentoEmpresaX = 1.48;

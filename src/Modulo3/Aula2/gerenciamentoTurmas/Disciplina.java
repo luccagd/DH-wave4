@@ -1,3 +1,5 @@
+package Modulo3.Aula2.gerenciamentoTurmas;
+
 public class Disciplina {
     private String nome;
     private int cargaHoraria;
