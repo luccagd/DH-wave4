@@ -2,7 +2,7 @@ package Modulo4.Aula1.converteParaRomanos;
 
 import java.util.Scanner;
 
-public class ConversorDois {
+public class Conversor {
     private static String[] algarismosRomanos = {"I", "V", "X", "L", "C", "D", "M"};
 
     public static String conversor(int digito, int unidadeDecimal) {
